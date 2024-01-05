@@ -4,8 +4,8 @@
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
     "web": "expo start --web",
     "ts:check": "tsc"
   },
@@ -23,7 +23,8 @@
     "react-native-polyfill-globals": "^3.1.0",
     "react-native-url-polyfill": "^2.0.0",
     "text-encoding": "^0.7.0",
-    "web-streams-polyfill": "^3.3.2"
+    "web-streams-polyfill": "^3.3.2",
+    "expo-splash-screen": "~0.20.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
