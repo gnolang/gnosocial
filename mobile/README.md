@@ -8,7 +8,7 @@ The GnoSocial mobile app uses Expo. You can review the general expo requirements
 
 Here are specific steps to install the requirements on your platform.
 
-### Install requirements for macOS 12 and macOS 13
+### Install requirements for macOS 13 and macOS 14
 
 (If you are on Ubuntu, see the next section to install requirements.)
 
